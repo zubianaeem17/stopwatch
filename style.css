@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(124, 153, 206);
+    text-align: center;
+}
+#sec , #msec , #min {
+    width: 50px;
+    background-color: rgb(169, 169, 169);
+}
+h2 {
+    display: inline-block;
+}
+button {
+    border-radius: 30px !important;
+}
